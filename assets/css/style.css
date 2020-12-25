@@ -20,4 +20,19 @@
         }
       }
 
-      
+      .item1:hover {
+    box-shadow: 5px 5px 10px 10px rgba(0,0,0,0.25);
+    cursor: pointer;
+}
+
+.nona {
+    display: none;
+}
+
+.blue-footer {
+    background-color: #23303E;
+}
+
+.center-it {
+    text-align: center;
+}
