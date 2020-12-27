@@ -36,3 +36,7 @@
 .center-it {
     text-align: center;
 }
+
+input.btn.btn-success.btn-send {
+    margin-top: 15px;
+}
